@@ -1,0 +1,8 @@
+pandas
+numpy
+openpyxl
+matplotlib
+tqdm
+openai
+jupyter
+notebook
